@@ -1,2 +1,2 @@
 # Resume-generator
- Generator-Resume using python
+Gerador de curriculo usando Python
